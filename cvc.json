@@ -1,0 +1,12 @@
+{
+    "starbucks" : [
+        {
+            "id" : 0,
+            "category" : "Freshed Brewed Coffee"
+        },
+        {
+            "id" : 1,
+            "category" : "Espresso Drinks"
+        }
+    ]
+}
