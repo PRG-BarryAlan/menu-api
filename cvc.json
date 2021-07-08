@@ -10,6 +10,13 @@
                     "size" : "Venti (20 fl oz)",
                     "calories" : 5,
                     "price" : "$2.95"
+                },
+                {
+                    "title" : "Starbucks® Cold Brew Coffee",
+                    "description" : "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat—Starbucks® Cold Brew is made from our custom blend of beans grown to steep long and cold for a super-smooth flavor.",
+                    "size" : "Venti (24 fl oz)",
+                    "calories" : 5,
+                    "price" : "$3.75" 
                 }
             ]
         },
