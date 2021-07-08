@@ -2,7 +2,12 @@
     "starbucks" : [
         {
             "id" : 0,
-            "category" : "Freshed Brewed Coffee"
+            "category" : "Freshed Brewed Coffee",
+            "drinks" : [
+                {
+                    "title" : "Starbucks® Fresh Brewed Coffee"
+                }
+            ]
         },
         {
             "id" : 1,
@@ -11,6 +16,14 @@
         {
             "id" : 2,
             "category" : "Tea"
+        },
+        {
+            "id" : 3,
+            "category" : "Steamed Drinks"
+        },
+        {
+            "id" : 4,
+            "category" : "Make it Yours"
         }
     ]
 }
