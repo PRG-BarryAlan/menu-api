@@ -5,7 +5,11 @@
             "category" : "Freshed Brewed Coffee",
             "drinks" : [
                 {
-                    "title" : "Starbucks® Fresh Brewed Coffee"
+                    "title" : "Starbucks® Blonde Roast Coffee",
+                    "description" : "Lightly roasted coffee that's soft, mellow and flavorful. Easy-drinking on its own and delicious with milk, sugar or flavored with vanilla, caramel or hazelnut.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 5,
+                    "price" : "$2.95"
                 }
             ]
         },
