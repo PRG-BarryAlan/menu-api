@@ -22,7 +22,16 @@
         },
         {
             "id" : 1,
-            "category" : "Espresso Drinks"
+            "category" : "Espresso Drinks",
+            "drinks" : [
+                {
+                    "title" : "Caffè Americano",
+                    "description" : "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 15,
+                    "price" : "$3.55"
+                }
+            ]
         },
         {
             "id" : 2,
