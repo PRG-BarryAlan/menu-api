@@ -143,5 +143,17 @@
                 }
             ]
         }
+    ],
+
+    "breakfast" : [
+        {
+            "title" : "#2 - Egg White Breakfast Sandwich",
+            "description" : "Egg Whites | Spinach | Tomato | Wheat English Muffin",
+            "mhealthy" : true,
+            "vegetarian" : true,
+            "calories" : null,
+            "price" : "$3.79"
+        }
     ]
+
 }
