@@ -153,7 +153,43 @@
             "vegetarian" : true,
             "calories" : null,
             "price" : "$3.79"
+        },
+        {
+            "title" : "Oatmeal",
+            "description" : "Need Description",
+            "mhealthy" : true,
+            "vegetarian" : true,
+            "vegan" : true,
+            "size" : "8 oz",
+            "calories" : null,
+            "price" : "$2.09"
+        },
+        {
+            "title" : "Oatmeal",
+            "description" : "Need Description",
+            "mhealthy" : true,
+            "vegetarian" : true,
+            "vegan" : true,
+            "size" : "12 oz",
+            "calories" : null,
+            "price" : "$2.49"
+        },
+        {
+            "title" : "Oatmeal",
+            "description" : "Need Description",
+            "mhealthy" : true,
+            "vegetarian" : true,
+            "vegan" : true,
+            "size" : "16 oz",
+            "calories" : null,
+            "price" : "$2.99"
+        },
+        {
+            "title" : "Fresh Fruit & Yogurt Bar",
+            "description" : "Need Description",
+            "mhealthy" : true,
+            "calories" : null,
+            "price" : "$6.49 / Per Pound"
         }
     ]
-
 }
