@@ -30,6 +30,55 @@
                     "size" : "Venti (20 fl oz)",
                     "calories" : 15,
                     "price" : "$3.55"
+                },
+                {
+                    "title" : "Cappuccino",
+                    "description" : "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 200,
+                    "price" : "$4.75"
+                },
+                {
+                    "title" : "Caffè Latte",
+                    "description" : "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 250,
+                    "price" : "$4.75"
+                },
+                {
+                    "title" : "Cinnamon Dolce Latte",
+                    "description" : "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 420,
+                    "price" : "$5.25"
+                },
+                {
+                    "title" : "Starbucks® Blonde Vanilla Latte",
+                    "description" : "Extra-smooth Starbucks® Blonde Espresso, velvety steamed milk and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. An ideal cup for those who prefer a lighter-roasted coffee.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 320,
+                    "price" : "$5.25"
+                },
+                {
+                    "title" : "Caffè Mocha",
+                    "description" : "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 450,
+                    "price" : "$5.25"
+                },
+                {
+                    "title" : "Caramel Macchiato",
+                    "description" : "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 310,
+                    "price" : "$5.45"
+                },
+                {
+                    "title" : "White Chocolate Mocha",
+                    "description" : "Our signature espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+                    "size" : "Venti (20 fl oz)",
+                    "calories" : 530,
+                    "price" : "$5.45"
                 }
             ]
         },
